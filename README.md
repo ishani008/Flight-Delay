@@ -51,3 +51,8 @@ We evaluated multiple models including Random Forest, Gradient Boosting, and XGB
    pip install -r requirements.txt
    ```
 3. Run the notebook in Jupyter Notebook or VS Code.
+
+////
+
+## 📚 Related & Reference Literature
+- 📄 [Predictive Modeling of Aircraft Flight Delay](docs/Kalliguddi_2017_Flight_Delay.pdf) — *Anish M. Kalliguddi & Aera K. Leboulluec (2017)*: Benchmarked Multiple Linear Regression, Decision Trees, and Random Forest on 1M US BTS flight records, demonstrating that Random Forest yields superior predictive accuracy ($R^2 = 0.94$) and identifying late incoming aircraft as the primary delay factor.
